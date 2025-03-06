@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-@aliknow-EAD41C?style=flat&logo=twitter&logoColor=white)](https://x.com/ajiyouknow?s=21)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/ali-israel](https://www.linkedin.com/in/asteteromeroisrael/))
 
-![Portface ](./images/profile.jpg)
+![profile ](./images/profile.jpg)
 </div>
 
 - 👋 Hi, I’m @AliKnows i’m interested in web aplication develop
@@ -16,7 +16,7 @@
 - 📫 How to reach me: send me a mail to asteteali@gmail.com
   
 <div align="center">
-#
-  memo: Am i just walking through a dream?
-#
+
+  <h2>memo: Am i just walking through a dream?</h2>
+
 </div>
