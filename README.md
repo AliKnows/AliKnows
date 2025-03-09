@@ -2,7 +2,7 @@
 <h1>WELCOME TO MY PROFILE IN GITHUB </h1>
 
 # 💻 **@AliKnows**  
-### *Computer Engineer | Social Innovation Developer*  
+### *Computer Engineer | Social Innovation Software Developer*  
 🌄 From Cusco, Peru - Alí Astete Romero 
 
 [![Twitter](https://img.shields.io/badge/-@aliknow-EAD41C?style=flat&logo=twitter&logoColor=white)](https://x.com/ajiyouknow?s=21)
