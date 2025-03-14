@@ -5,7 +5,7 @@
 
 # 💻 **@AliKnows**  
 ### *Computer Engineer | Social Innovation Software Developer*  
-🌄 From Cusco, Peru - Alí Astete Romero 
+🌄 From Cusco, Peru (Secret Valley)
 
 [![Twitter](https://img.shields.io/badge/-@aliknow-EAD41C?style=flat&logo=twitter&logoColor=white)](https://x.com/ajiyouknow?s=21)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/ali-israel](https://www.linkedin.com/in/asteteromeroisrael/))
