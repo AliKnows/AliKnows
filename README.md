@@ -18,7 +18,7 @@
 - 📫 How to reach me: send me a mail to israel_06_01@hotmail.com
 
 
-<img src="credential" >
+
 <img src="adlrbt.jpg" alt="botton" align="center">
 
 <div align="center">
