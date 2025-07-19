@@ -23,7 +23,7 @@
 
 <div align="center">
 
-  <h2>memo: Am i just walking through a dream?</h2>
+  <h2>memo: TRY AGAIN. FAIL AGAIN. FAIL BETTER. </h2>
 
 </div>
 
